@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Tungsten";
+  src: local("Tungsten"), url(./font//Tungsten-Bold.ttf) format("truetype");
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
